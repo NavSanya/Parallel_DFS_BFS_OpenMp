@@ -11,13 +11,18 @@ This is a semester project done for the class CSci 176: Parallel Processing
 
 ## Execution Details
 Compile BFS.cpp
-          g++ -fopenmp -o xxx BFS.cpp
+    
+    g++ -fopenmp -o xxx BFS.cpp
 Run BFS.cpp
-          ./xxx
+
+    g++ -fopenmp -o xxx BFS.cpp
 Compile DFS.cpp
-         g++ -fopenmp -o aaa DFS.cpp
+
+    g++ -fopenmp -o aaa DFS.cpp
 Run BFS.cpp
-         ./aaa
+    
+    ./aaa
+    
     
 ## Built With
 
