@@ -1,7 +1,7 @@
 <h1 style="font-size:300%;" align="center" >Parallel_DFS_BFS</h1>
 
   <p align="center">
-     Coding and Analysing Breadth First Search(BFS) and Depth First Search(DFS) serially and parallelly.
+     Coding and Analysing Breadth First Search(BFS) and Depth First Search(DFS) serially and parallelly (Openmp).
     <br />
 </p>
 
