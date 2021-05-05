@@ -21,5 +21,5 @@ MIT License
 
 ## Links
 
-Project Link: [Parallel_BFS_DFS Github](https://github.com/NavSanya/Parallel_DFS_BFS_OpenMp)  
+Project Link: [Parallel_DFS_BFS Github](https://github.com/NavSanya/Parallel_DFS_BFS_OpenMp)  
 Report: [Report- Parallel Bfs and DFS](https://docs.google.com/document/d/1MhisMnrwpmDzabducGIdrbr-1KRxTPnsQNM_ZjArEZE/edit?usp=sharing)
